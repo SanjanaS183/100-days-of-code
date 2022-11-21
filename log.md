@@ -1,30 +1,79 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+Day 1 of #100DaysOfCode specifically #100DaysOfMLCode 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+I started working on a kaggle titanic dataset which is building a model to decide whether a passenger will be saved.
+Other than that, I also coded in python to implement dimensionality reduction.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Day 2:
+Looked at different ML algorithms to decide which is best to implement for a specific problem.
+Decided on Random Forest algo and started to code.
 
-**Link to work:** [Calculator App](http://www.example.com)
+Day 3:
+I had a data mining assignment where I coded in python. 
+I had to visualise data through graphs. Used Seaborn library to visualise.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+Day 4:
+Wrote the Code for the  Kaggle titanic project completely from data processing to validation. 
+This is my first time doing the full steps. 
+Will improve it in the coming days and will try to get a good accuracy. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Link: https://www.kaggle.com/code/sanjanasatish68l/titanic-first-project
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Day 5:
+Implemented the beta function in python using Scipy. Calculated cdf and pdf. 
+Learned how code of integration works and used it to find probability 
+using probability distribution function over certain limits. 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Day 6: 
+Used KNN algorithm for developing a model for sklearn Iris dataset. 
+Found the accuracy and obtain the confusion matrix. Went through code for Logistic regression. 
 
+ay 7: 
+Coded for getting convolution of two functions. 
+Learned how to use enumerate and append in a for loop. 
+Using a loop, added values to an empty list for certain calculations. 
+Used pandas data reader, to get information. 
 
-### Day 1: June 27, Monday
+Day 8:
+Wrote code for t distribution 
+Found it’s skew and kurtosis 
+Coded from scratch a QQ plot to compare two t distributions. 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+Day 9:
+Developed a machine learning model to detect fake news using support vector machine algorithm. 
+Preprocessing and feature extraction was done.
+Trained the model and predicted labels
+Obtained accuracy along with confusion matrix.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+Day 10: 
+Did some error analysis on the SVM model built yesterday. 
+Printed out the true and predicted labels to analyse to a file for one fold of data.
+Tried to improve accuracy by adding more preprocessing and features extraction steps. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+Day 11: 
+Improved accuracy of model by pre-processing (removed stop-words, did stemming and lemmatisation). 
+Changed parameters for svm classifier as well. 
+Added new data as labels to get better accuracy.
+
+Day 12:
+For a machine learning model with support vector classifier. 
+I was doing the optimisation to increase accuracy. 
+Additional labels were added and extra preprocessing was done.  
+Finally, tested the model in the test data. 
+
+Day 13:
+Wrote some code related to data warehousing. 
+Mainly for cubes which is a python framework for OLAP. 
+Wrote function to slice and dice cubes.
+
+Day 14: 
+Wrote code for models for a small dataset using svm and random forest algorithm. 
+Tested parameter grid method to fit models having ideal parameters.
+Explored frequent item sets.
+
+Day 15: 
+Read about the basic overview of deep learning. 
+Explored deep learning methods to classify sound. 
+I have a group of sounds from different parts of London. 
+In the coming weeks I have classify it and should create a new problem statement. 
