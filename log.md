@@ -77,3 +77,15 @@ Read about the basic overview of deep learning.
 Explored deep learning methods to classify sound. 
 I have a group of sounds from different parts of London. 
 In the coming weeks I have classify it and should create a new problem statement. 
+
+Day 16: 
+For a dataset consisting of sounds in different places in London, deep learning was used. 
+Features were extracted from audio files like the mean pitch. 
+It was used as predictors. For optimising the final accuracy, I added grid search method.
+
+Day 17: 
+In an array of subplots, I plotted the histogram of gamma 
+distribution of average samples of an array and pdf of each. 
+I also plotted a QQ plot to compare the two graphs. 
+When it came large values, I used central limit theorem 
+and plotted the normal pdf.
